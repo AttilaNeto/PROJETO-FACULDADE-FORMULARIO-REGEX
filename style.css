@@ -1,0 +1,14 @@
+#logo{
+    width: 20vw;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+
+.alerta{
+    background-color: rgb(245, 199, 199);
+    color: rgb(100, 13, 13);
+    font-weight: bold;
+    border-radius: 5px;
+    display: none;
+}
+
